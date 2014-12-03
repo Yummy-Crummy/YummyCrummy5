@@ -14,7 +14,7 @@
         android:id="@+id/titleTextView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
-
+    <!--lskghdgh-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
